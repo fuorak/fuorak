@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fuorak
 - 👀 I’m interested in ... creating
 - 🌱 I’m currently learning ... web dev
-- 💞️ I’m looking to collaborate on ... any project honestly
 - 📫 How to reach me ... mattgoetz6@gmail.com
 
 <!---
